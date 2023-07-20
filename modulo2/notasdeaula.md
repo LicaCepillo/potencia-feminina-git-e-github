@@ -10,3 +10,6 @@ Nesta aula estamos aprendendo alguns comandos bem interessantes e úteis.
 
 ## git add [caminho do arquivo]
 **vaiadicionar o arquivo modificado em específico**
+
+## git commit
+**comitanto arquivos e fazendo comentários **
