@@ -12,4 +12,4 @@ Nesta aula estamos aprendendo alguns comandos bem interessantes e úteis.
 **vaiadicionar o arquivo modificado em específico**
 
 ## git commit
-**comitanto arquivos e fazendo comentários **
+**comitanto arquivos e fazendo comentários**
